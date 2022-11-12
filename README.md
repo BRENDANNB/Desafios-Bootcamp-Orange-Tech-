@@ -1,2 +1,2 @@
-# Desafios-Bootcamp-Orange-Tech-
+# Desafio-Bootcamp-Orange-Tech-
 REPOSITORIO DESTINADO AO CONTEUDO APLICADO NO BOOTCAMP ORANGE TECH
